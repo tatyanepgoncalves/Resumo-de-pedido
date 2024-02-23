@@ -1,4 +1,4 @@
-<h1 align="center"> Resumo de Pedido</h1>
+<h1 align="center"> Resumo de Pedido 📝</h1>
 
 <p align="center">
   <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
@@ -19,10 +19,12 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 ## 💻 Projeto
 Projetos retirados do [Frontend Mentor](https://www.frontendmentor.io/home).
 
+<div style=" display: inline_block" align="center"> <br>
+  <img src='images/desktop-design.jpg' alt='' width='800cm'>
 
-<img src='images/desktop-design.jpg' alt=''>
-<img src='images/mobile-design.jpg' alt=''>
-
+  <br>
+  <img src='images/mobile-design.jpg' alt='' width="300cm">
+</div>
 
 ## 📓 Licença
 
